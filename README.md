@@ -92,10 +92,10 @@ DataSet:
  [Conceptual Captions](https://github.com/google-research-datasets/conceptual-captions)
 | metrics | sota | method | paper |
 | --- | --- | --- | --- |
-|Params (M) | 156 | MLP + GPT2 tuning  |[TextCaps: a Dataset for Image Captioning with Reading Comprehension](https://arxiv.org/pdf/2111.09734v1.pdf) |
-| SPICE | 18.5 |  MLP + GPT2 tuning  |[TextCaps: a Dataset for Image Captioning with Reading Comprehension](https://arxiv.org/pdf/2111.09734v1.pdf) |
-| ROUGE-L | 26.7 |  MLP + GPT2 tuning  |[TextCaps: a Dataset for Image Captioning with Reading Comprehension](https://arxiv.org/pdf/2111.09734v1.pdf) |
-| CIDEr | 87.26 |  MLP + GPT2 tuning  |[TextCaps: a Dataset for Image Captioning with Reading Comprehension](https://arxiv.org/pdf/2111.09734v1.pdf) |
+|Params (M) | 156 | MLP + GPT2 tuning  |[ClipCap: CLIP Prefix for Image Captioning](https://arxiv.org/pdf/2111.09734v1.pdf) |
+| SPICE | 18.5 |  MLP + GPT2 tuning |[ClipCap: CLIP Prefix for Image Captioning](https://arxiv.org/pdf/2111.09734v1.pdf) |
+| ROUGE-L | 26.7 |  MLP + GPT2 tuning |[ClipCap: CLIP Prefix for Image Captioning](https://arxiv.org/pdf/2111.09734v1.pdf) |
+| CIDEr | 87.26 |  MLP + GPT2 tuning |[ClipCap: CLIP Prefix for Image Captioning](https://arxiv.org/pdf/2111.09734v1.pdf) |
 
  [SBU Captions](https://huggingface.co/datasets/sbu_captions)
 | metrics | sota | method | paper |
