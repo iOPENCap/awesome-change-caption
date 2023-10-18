@@ -2,7 +2,7 @@
 The project is currently under construction
 ### Papers
 #### Lite Version
-* [**ICIIF 20 18**]  [Least Squares Twin Extreme Learning Machine for Pattern Classification](https://link.springer.com/chapter/10.1007/978-981-13-1966-2_50) *Amisha et al.*  [[paper]](https://link.springer.com/book/10.1007/978-981-13-1966-2)<br/>
+* [**ICIIF 2018**]  [Least Squares Twin Extreme Learning Machine for Pattern Classification](https://link.springer.com/chapter/10.1007/978-981-13-1966-2_50) *Amisha et al.*  [[paper]](https://link.springer.com/book/10.1007/978-981-13-1966-2)<br/>
 * [**ScienceDirect 2001**]   [A Survey of Computer Vision-Based Human Motion Capture](https://www.sciencedirect.com/science/article/pii/S107731420090897X) *Thomas et al.*  [[paper]](https://www.sciencedirect.com/)<br/>
 * [**ICIIF 2018**]  [A Statistical Approach to Texture Classification from Single Images](https://link.springer.com/article/10.1023/B:VISI.0000046589.39864.ee) *Manik et al.*  [[paper]](https://link.springer.com/)<br/>
 *  [**IEEE 2000**]  [Twenty Years of Document Image Analysis in PAMI](https://ieeexplore.ieee.org/document/824820) *George Nagy.*  [[paper]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)<br/>
