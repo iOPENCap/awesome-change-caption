@@ -1,8 +1,5 @@
 # awesome-change-caption
 The project is currently under construction
-file:///c%3A/Users/luoyiyi/learngit/awesome.md {"mtime":1695369401465,"ctime":1695367934712,"size":708,"etag":"3b85snj2imq","orphaned":false,"typeId":""}
-# awesome-remote-change-image
-The project is currently under construction
 ### Papers
 #### Lite Version
 * [**ICIIF 2018**]  [Least Squares Twin Extreme Learning Machine for Pattern Classification](https://link.springer.com/chapter/10.1007/978-981-13-1966-2_50) *Amisha et al.*  [[paper]](https://link.springer.com/book/10.1007/978-981-13-1966-2)<br/>
